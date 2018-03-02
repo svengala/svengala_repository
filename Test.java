@@ -4,3 +4,6 @@ public class Test {
 		
 	}
 }
+abstract class Abstract { 
+	public void method() {}
+}
